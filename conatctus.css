@@ -1,0 +1,9 @@
+button{
+    width: auto;
+    height: auto;
+    background-color: black;
+    color: white;
+}
+body{
+    background-image: url("bckgrnd.jpg");
+}

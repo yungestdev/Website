@@ -1,0 +1,23 @@
+button{
+    width: auto;
+    height: auto;
+    color: forestgreen;
+    background-color: black;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out; 
+}
+button:hover{
+    transform: scale(1.01);
+}
+button:active{
+    background-color: grey;
+}
+body{
+    background-image: url("hjscode.gif");
+}
+#itemsmain {
+    float: right;
+    align-items: baseline;
+    font:bold;
+    font-size: 12px;
+}

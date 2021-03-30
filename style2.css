@@ -1,0 +1,14 @@
+body{
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-image: url("bckgrnd.jpg");
+}
+button{
+    width: auto;
+    height: auto;
+    background-color: black;
+    color: white;
+}
+#cane{
+    float: right;
+}

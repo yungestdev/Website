@@ -14,6 +14,7 @@ button:active{
 }
 body{
     background-image: url("image.jpg");
+    height: 100px;
 }
 #itemsmain {
     float: right;

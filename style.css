@@ -13,7 +13,7 @@ button:active{
     background-color: grey;
 }
 body{
-    background-image: url("hjscode.gif");
+    background-image: url("setup.ico");
 }
 #itemsmain {
     float: right;
